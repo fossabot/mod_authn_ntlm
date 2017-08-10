@@ -20,6 +20,8 @@ for Apache 2.4 we decided to share this project to the community.
 ---
 
 #List of available parameters
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FJBlond%2Fmod_authn_ntlm.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FJBlond%2Fmod_authn_ntlm?ref=badge_shield)
+
 
 Notice:
 
@@ -61,3 +63,7 @@ You can read about the cause and the workaround here: https://support.microsoft.
 
 **I did test method 1 and added the FQDN domain in the registry, after ntlm authentication works on the local server.**
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FJBlond%2Fmod_authn_ntlm.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FJBlond%2Fmod_authn_ntlm?ref=badge_large)
